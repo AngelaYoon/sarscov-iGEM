@@ -1,0 +1,8214 @@
+{
+  "annotations": {
+    "E": {
+      "end": 26472,
+      "seqid": "config/reference_seq.gb",
+      "start": 26245,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "M": {
+      "end": 27191,
+      "seqid": "config/reference_seq.gb",
+      "start": 26523,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "N": {
+      "end": 29533,
+      "seqid": "config/reference_seq.gb",
+      "start": 28274,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF10": {
+      "end": 29674,
+      "seqid": "config/reference_seq.gb",
+      "start": 29558,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF14": {
+      "end": 28955,
+      "seqid": "config/reference_seq.gb",
+      "start": 28734,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF1a": {
+      "end": 13468,
+      "seqid": "config/reference_seq.gb",
+      "start": 266,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF1b": {
+      "end": 21555,
+      "seqid": "config/reference_seq.gb",
+      "start": 13468,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF3a": {
+      "end": 26220,
+      "seqid": "config/reference_seq.gb",
+      "start": 25393,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF6": {
+      "end": 27387,
+      "seqid": "config/reference_seq.gb",
+      "start": 27202,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF7a": {
+      "end": 27759,
+      "seqid": "config/reference_seq.gb",
+      "start": 27394,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF7b": {
+      "end": 27887,
+      "seqid": "config/reference_seq.gb",
+      "start": 27756,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF8": {
+      "end": 28259,
+      "seqid": "config/reference_seq.gb",
+      "start": 27894,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF9b": {
+      "end": 28577,
+      "seqid": "config/reference_seq.gb",
+      "start": 28284,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "S": {
+      "end": 25384,
+      "seqid": "config/reference_seq.gb",
+      "start": 21563,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 29903,
+      "seqid": "config/reference_seq.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "9.0.0"
+  },
+  "nodes": {
+    "Australia/NSW2520/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "G189V"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "E583D"
+        ]
+      }
+    },
+    "Australia/NSW658/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "T1529I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V1068F"
+        ]
+      }
+    },
+    "Australia/QLDID922/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "P344S"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Y28H"
+        ]
+      }
+    },
+    "Australia/QLDID926/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Australia/SAP443/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S254F"
+        ]
+      }
+    },
+    "Australia/SAP446/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A3529V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A626V"
+        ]
+      }
+    },
+    "Australia/VIC153/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S221L"
+        ]
+      }
+    },
+    "Australia/VIC2165/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P1917L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Australia/VIC218/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P85L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q677H"
+        ]
+      }
+    },
+    "Australia/VIC509/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "D22G"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S944L",
+          "G1100V"
+        ],
+        "ORF1b": [
+          "D54Y",
+          "V1493L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [
+          "I19V"
+        ],
+        "S": [
+          "G1124V"
+        ]
+      }
+    },
+    "Austria/CeMM0305/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T1027I"
+        ]
+      }
+    },
+    "Bangladesh/BCSIR-NILMRC-287/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "Q57H"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I834V"
+        ]
+      }
+    },
+    "Bangladesh/BCSIR-NILMRC-295/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V267L"
+        ]
+      }
+    },
+    "Bangladesh/BCSIR-NILMRC_236/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "E245D",
+          "D508G",
+          "L1681F"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Y248H",
+          "G594S",
+          "Q675R"
+        ]
+      }
+    },
+    "Bangladesh/BCSIR-NILMRC_238/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3201F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S98F"
+        ]
+      }
+    },
+    "Bangladesh/BCSIR-NILMRC_291/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A1283V"
+        ],
+        "ORF1b": [
+          "T1555I",
+          "P1664S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T941A"
+        ]
+      }
+    },
+    "Bangladesh/BCSIR-NILMRC_296/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "Q9H"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [
+          "A43T"
+        ],
+        "ORF8": [],
+        "ORF9b": [
+          "S6I"
+        ],
+        "S": [
+          "D138Y"
+        ]
+      }
+    },
+    "Belgium/UGent-96/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A846V"
+        ]
+      }
+    },
+    "Belgium/ULG-10001/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "R195K"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "E42K"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A706V"
+        ]
+      }
+    },
+    "Brazil/SP-14/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V1176F"
+        ]
+      }
+    },
+    "Canada/NL_82/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V1122L"
+        ]
+      }
+    },
+    "Canada/ON_PHL1095/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G1219C"
+        ]
+      }
+    },
+    "Canada/ON_PHL3318/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S186F"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "P33S"
+        ],
+        "ORF1a": [
+          "A3143V"
+        ],
+        "ORF1b": [
+          "G2474R"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T22I"
+        ]
+      }
+    },
+    "Denmark/ALAB-HH-150/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "T792N"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G181R"
+        ]
+      }
+    },
+    "Denmark/ALAB-HH-248/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S98F"
+        ]
+      }
+    },
+    "Denmark/ALAB-HH66/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Denmark/ALAB-SSI-1248/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q613H"
+        ]
+      }
+    },
+    "Denmark/ALAB-SSI262/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "A119V"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "V273L"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q14H"
+        ]
+      }
+    },
+    "Denmark/SSI-102/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L611F"
+        ]
+      }
+    },
+    "England/20102000604/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "D815Y"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "England/20109051806/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T76I"
+        ]
+      }
+    },
+    "England/201160628/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L176F"
+        ]
+      }
+    },
+    "England/202822171/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S190I"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "V37F"
+        ],
+        "ORF1a": [
+          "T4090I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "V33I",
+          "D34N",
+          "T87I"
+        ],
+        "ORF9b": [],
+        "S": [
+          "A846S"
+        ]
+      }
+    },
+    "England/BRIS-123859/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T307I"
+        ]
+      }
+    },
+    "England/BRIS-1254DB/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P1497L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D80A"
+        ]
+      }
+    },
+    "England/BRIS-18531D3/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L1334I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P463S"
+        ]
+      }
+    },
+    "England/CAMB-1ABCA8/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L18F"
+        ]
+      }
+    },
+    "England/CAMB-1AD4AE/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "E37D",
+          "K322R",
+          "T1246I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D138Y"
+        ]
+      }
+    },
+    "England/CAMB-721F7/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "N370S"
+        ]
+      }
+    },
+    "England/CAMB-734B1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "D3L"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L864V"
+        ]
+      }
+    },
+    "England/CAMB-73FDE/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H245Y"
+        ]
+      }
+    },
+    "England/CAMB-75895/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T1567I",
+          "A3333T"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T478I"
+        ]
+      }
+    },
+    "England/CAMB-764DC/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A1020V"
+        ]
+      }
+    },
+    "England/CAMB-7A64B/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "E2D"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A262S"
+        ]
+      }
+    },
+    "England/CAMB-7C403/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S391F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "Q18*"
+        ],
+        "ORF9b": [],
+        "S": [
+          "Q836H"
+        ]
+      }
+    },
+    "England/CAMB-7CDF9/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "L29F"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "C720Y"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I670M"
+        ]
+      }
+    },
+    "England/CAMB-8475A/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "England/CAMB-84E37/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "S2312A"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G769V"
+        ]
+      }
+    },
+    "England/LIVE-9B019/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3644F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R102I"
+        ]
+      }
+    },
+    "England/LIVE-A4CDD/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "D870Y",
+          "F1741Y"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L18F"
+        ]
+      }
+    },
+    "England/LIVE-A6127/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A942S"
+        ]
+      }
+    },
+    "England/LIVE-A6154/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "I1203T",
+          "D4317E"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T76I"
+        ]
+      }
+    },
+    "England/LIVE-A6215/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T573I",
+          "V615I"
+        ]
+      }
+    },
+    "England/LOND-D9880/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A498V",
+          "T999I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [
+          "P17L"
+        ],
+        "S": [
+          "A411S"
+        ]
+      }
+    },
+    "England/NORT-28910A/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q52L"
+        ]
+      }
+    },
+    "England/NORW-E6F7C/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "G224C"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I670L"
+        ]
+      }
+    },
+    "England/OXON-AF452/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A344S"
+        ]
+      }
+    },
+    "England/PORT-2D0EA3/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "K1073N"
+        ]
+      }
+    },
+    "England/SHEF-C079E/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V289I"
+        ]
+      }
+    },
+    "England/WSFT-25C110D/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q52H"
+        ]
+      }
+    },
+    "Finland/13M64/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "France/211_80/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T572I"
+        ]
+      }
+    },
+    "France/ARA18366/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S640F"
+        ]
+      }
+    },
+    "France/B5325/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "H388Y",
+          "P1977L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V1104L"
+        ]
+      }
+    },
+    "France/Bourg-en-Bresse_06678/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "T14I"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L54F"
+        ]
+      }
+    },
+    "France/GE1977/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S939F"
+        ]
+      }
+    },
+    "France/HF3598/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A2320V"
+        ],
+        "ORF1b": [
+          "D1127Y"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S151I"
+        ]
+      }
+    },
+    "France/IDF0372/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V367F"
+        ]
+      }
+    },
+    "France/IDF3029/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S940F"
+        ]
+      }
+    },
+    "France/Valence_425/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "R1600L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V213L"
+        ]
+      }
+    },
+    "Greece/153_33892/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G769V"
+        ]
+      }
+    },
+    "Guangdong/20SF028/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H49Y"
+        ]
+      }
+    },
+    "Iceland/13/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "A1643V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L18F"
+        ]
+      }
+    },
+    "Iceland/133/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L5F"
+        ]
+      }
+    },
+    "Iceland/189/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "K3353R"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I834T"
+        ]
+      }
+    },
+    "Iceland/243/2020": {
+      "aa_muts": {
+        "E": [
+          "L73F"
+        ],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M1229I"
+        ]
+      }
+    },
+    "Iceland/319/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "A440V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M177I"
+        ]
+      }
+    },
+    "Iceland/336/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "M585V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Y145H"
+        ]
+      }
+    },
+    "Iceland/62/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "Y189C"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A831V"
+        ]
+      }
+    },
+    "India/CCMB_J021/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "K77M"
+        ]
+      }
+    },
+    "India/CCMB_L1026/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S2103F"
+        ],
+        "ORF1b": [
+          "V1419L",
+          "N2695L"
+        ],
+        "ORF3a": [
+          "L46F"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A520S",
+          "G1251V"
+        ]
+      }
+    },
+    "India/CCMB_L1459/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "D1089Y",
+          "I2490T"
+        ],
+        "ORF1b": [
+          "N2695L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V213A"
+        ]
+      }
+    },
+    "India/GBRC54/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R78M"
+        ]
+      }
+    },
+    "India/S2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G1124V"
+        ]
+      }
+    },
+    "Ireland/71IRL06434/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P9T"
+        ]
+      }
+    },
+    "Israel/CVL-n-6134/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A2529V"
+        ],
+        "ORF1b": [
+          "T1739I",
+          "K2557R"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S255F"
+        ]
+      }
+    },
+    "Israel/CVL-n-6157/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S538P"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A845S"
+        ]
+      }
+    },
+    "Italy/IZSM-32798-45/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S1221L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T299I"
+        ]
+      }
+    },
+    "Italy/PV-5314-N/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D839Y"
+        ]
+      }
+    },
+    "Luxembourg/LNS3879580/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V308L"
+        ]
+      }
+    },
+    "Luxembourg/LNS6533667/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A771S"
+        ]
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "E": "MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV*",
+        "M": "MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPVTLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILLNVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ*",
+        "N": "MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADLDDFSKQLQQSMSSADSTQA*",
+        "ORF10": "MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT*",
+        "ORF14": "MLQSCYNFLKEQHCQKASTQKGAEAAVKPLLVPHHVVATVQEIQLQAAVGELLLLEWLAMAVMLLLLCCCLTD*",
+        "ORF1a": "MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQHLKDGTCGLVEVEKGVLPQLEQPYVFIKRSDARTAPHGHVMVELVAELEGIQYGRSGETLGVLVPHVGEIPVAYRKVLLRKNGNKGAGGHSYGADLKSFDLGDELGTDPYEDFQENWNTKHSSGVTRELMRELNGGAYTRYVDNNFCGPDGYPLECIKDLLARAGKASCTLSEQLDFIDTKRGVYCCREHEHEIAWYTERSEKSYELQTPFEIKLAKKFDTFNGECPNFVFPLNSIIKTIQPRVEKKKLDGFMGRIRSVYPVASPNECNQMCLSTLMKCDHCGETSWQTGDFVKATCEFCGTENLTKEGATTCGYLPQNAVVKIYCPACHNSEVGPEHSLAEYHNESGLKTILRKGGRTIAFGGCVFSYVGCHNKCAYWVPRASANIGCNHTGVVGEGSEGLNDNLLEILQKEKVNINIVGDFKLNEEIAIILASFSASTSAFVETVKGLDYKAFKQIVESCGNFKVTKGKAKKGAWNIGEQKSILSPLYAFASEAARVVRSIFSRTLETAQNSVRVLQKAAITILDGISQYSLRLIDAMMFTSDLATNNLVVMAYITGGVVQLTSQWLTNIFGTVYEKLKPVLDWLEEKFKEGVEFLRDGWEIVKFISTCACEIVGGQIVTCAKEIKESVQTFFKLVNKFLALCADSIIIGGAKLKALNLGETFVTHSKGLYRKCVKSREETGLLMPLKAPKEIIFLEGETLPTEVLTEEVVLKTGDLQPLEQPTSEAVEAPLVGTPVCINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGGAPTKVTFGDDTVIEVQGYKSVNITFELDERIDKVLNEKCSAYTVELGTEVNEFACVVADAVIKTLQPVSELLTPLGIDLDEWSMATYYLFDESGEFKLASHMYCSFYPPDEDEEEGDCEEEEFEPSTQYEYGTEDDYQGKPLEFGATSAALQPEEEQEEDWLDDDSQQTVGQQDGSEDNQTTTIQTIVEVQPQLEMELTPVVQTIEVNSFSGYLKLTDNVYIKNADIVEEAKKVKPTVVVNAANVYLKHGGGVAGALNKATNNAMQVESDDYIATNGPLKVGGSCVLSGHNLAKHCLHVVGPNVNKGEDIQLLKSAYENFNQHEVLLAPLLSAGIFGADPIHSLRVCVDTVRTNVYLAVFDKNLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFITESKPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLLLYIDINGNLHPDSATLVSDIDITFLKKDAPYIVGDVVQEGVLTAVVIPTKKAGGTTEMLAKALRKVPTDNYITTYPGQGLNGYTVEEAKTVLKKCKSAFYILPSIISNEKQEILGTVSWNLREMLAHAEETRKLMPVCVETKAIVSTIQRKYKGIKIQEGVVDYGARFYFYTSKTTVASLINTLNDLNETLVTMPLGYVTHGLNLEEAARYMRSLKVPATVSVSSPDAVTAYNGYLTSSSKTPEEHFIETISLAGSYKDWSYSGQSTQLGIEFLKRGDKSVYYTSNPTTFHLDGEVITFDNLKTLLSLREVRTIKVFTTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTFYVLPNDDTLRVEAFEYYHTTDPSFLGRYMSALNHTKKWKYPQVNGLTSIKWADNNCYLATALLTLQQIELKFNPPALQDAYYRARAGEAANFCALILAYCNKTVGELGDVRETMSYLFQHANLDSCKRVLNVVCKTCGQQQTTLKGVEAVMYMGTLSYEQFKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKHGTFTCASEYTGNYQCGHYKHITSKETLYCIDGALLTKSSEYKGPITDVFYKENSYTTTIKPVTYKLDGVVCTEIDPKLDNYYKKDNSYFTEQPIDLVPNQPYPNASFDNFKFVCDNIKFADDLNQLTGYKKPASRELKVTFFPDLNGDVVAIDYKHYTPSFKKGAKLLHKPIVWHVNNATNKATYKPNTWCIRCLWSTKPVETSNSFDVLKSEDAQGMDNLACEDLKPVSEEVVENPTIQKDVLECNVKTTEVVGDIILKPANNSLKITEEVGHTDLMAAYVDNSSLTIKKPNELSRVLGLKTLATHGLAAVNSVPWDTIANYAKPFLNKVVSTTTNIVTRCLNRVCTNYMPYFFTLLLQLCTFTRSTNSRIKASMPTTIAKNTVKSVGKFCLEASFNYLKSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLGMPSYCTGYREGYLNSTNVTIATYCTGSIPCSVCLSGLDSLDTYPSLETIQITISSFKWDLTAFGLVAEWFLAYILFTRFFYVLGLAAIMQLFFSYFAVHFISNSWLMWLIINLVQMAPISAMVRMYIFFASFYYVWKSYVHVVDGCNSSTCMMCYKRNRATRVECTTIVNGVRRSFYVYANGGKGFCKLHNWNCVNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKNGSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCEESSAKSASVYYSQLMCQPILLLDQALVSDVGDSAEVAVKMFDAYVNTFSSTFNVPMEKLKTLVATAEAELAKNVSLDNVLSTFISAARQGFVDSDVETKDVVECLKLSHQSDIEVTGDSCNNYMLTYNKVENMTPRDLGACIDCSARHINAQVAKSHNIALIWNVKDFMSLSEQLRKQIRSAAKKNNLPFKLTCATTRQVVNVVTTKIALKGGKIVNNWLKQLIKVTLVFLFVAAIFYLITPVHVMSKHTDFSSEIIGYKAIDGGVTRDIASTDTCFANKHADFDTWFSQRGGSYTNDKACPLIAAVITREVGFVVPGLPGTILRTTNGDFLHFLPRVFSAVGNICYTPSKLIEYTDFATSACVLAAECTIFKDASGKPVPYCYDTNVLEGSVAYESLRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDSEYCRHGTCERSEAGVCVSTSGRWVLNNDYYRSLPGVFCGVDAVNLLTNMFTPLIQPIGALDISASIVAGGIVAIVVTCLAYYFMRFRRAFGEYSHVVAFNTLLFLMSFTVLCLTPVYSFLPGVYSVIYLYLTFYLTNDVSFLAHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNYLKRRVVFNGVSFSTFEEAALCTFLLNKEMYLKLRSDVLLPLTQYNRYLALYNKYKYFSGAMDTTSYREAACCHLAKALNDFSNSGSDVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQSAVKRTIKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYENAFLPFAMGIIAMSAFAMMFVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLDMVDTSLSGFKLKDCVMYASAVVLLILMTARTVYDDGARRVWTLMNVLTLVYKVYYGNALDQAISMWALIISVTSNYSGVVTTVMFLARGIVFMCVEYCPIFFITGNTLQCIMLVYCFLGYFCTCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNIKLLGVGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATLQAIASEFSSLPSYAAFATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVVDADSKIVQLSEISMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKGGRFVLALLSDLQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDAAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVCGMWKGYGCSCDQLREPMLQSADAQSFLN",
+        "ORF1b": "RVCGVSAARLTPCGTGTSTDVVYRAFDIYNDKVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFRIDGDMVPHISRQRLTKYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQALLKTVQFCDAMRNAGIVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPVVDSYYSLLMPILTLTRALTAESHVDTDLTKPYIKWDLLKYDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAVVCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSLEIPRRNVATLQAENVTGLFKDCSKVITGLHPTQAPTHLSVDTKFKTEGLCVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCHATREAVGTNLPLQLGFSTGVNLVAVPTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPLMYKGLPWNVVRIKIVQMLSDTLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLCDRRATCFSTASDTYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYCQVHGNAHVASCDAIMTRCLAVHECFVKRVDWTIEYPIIGDELKINAACRKVQHMVVKAALLADKFPVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKAYKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPANSIVCRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFVNLKQLPFFYYSDSPCESHGKQVVSDIDYVPLKSATCITRCNLGGAVCRHHANEYRLYLDAYNMMISAGFSLWVYKQFDTYNLWNTFTRLQSLENVAFNVVNKGHFDGQQGEVPVSIINNTVYTKVDGVDVELFENKTTLPVNVAFELWAKRNIKPVPEVKILNNLGVDIAANTVIWDYKRDAPAHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVDLFRNARNGVLITEGSVKGLQPSVGPKQASLNGVTLIGEAVKTQFNYYKKVDGVVQQLPETYFTQSRNLQEFKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKESPFELEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFVEIIKSQDLSVVSKVVKVTIDYTEISFMLWCKDGHVETFYPKLQSSQAWQPGVAMPNLYKMQRMLLEKCDLQNYGDSATLPKGIMMNVAKYTQLCQYLNTLTLAVPYNMRVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKWDLIISDMYDPKTKNVTKENDSKEGFFTYICGFIQQKLALGGSVAIKITEHSWNADLYKLMGHFAWWTAFVTNVNASSSEAFLIGCNYLGKPREQIDGYVMHANYIFWRNTNPIQLSSYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLSKGRLIIRENNRVVISSDVLVNN*",
+        "ORF3a": "MDLFMRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQASLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEPEEHVQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL*",
+        "ORF6": "MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEID*",
+        "ORF7a": "MKIILFLALITLATCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSVSPKLFIRQEEVQELYSPIFLIVAAIVFITLCFTLKRKTE*",
+        "ORF7b": "MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNETCHA*",
+        "ORF8": "MKFLVFLGIITTVAAFHQECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI*",
+        "ORF9b": "MDPKISEMHPALRLVDPQIQLAVTRMENAVGRDQNNVGPKVYPIILRLGSPLSLNMARKTLNSLEDKAFQLTPIAVQMTKLATTEELPDEFVVVTVK*",
+        "S": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT*"
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "L84S"
+        ],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P1427L",
+          "Y1464C"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "G251V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "V378I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "P13L"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T2016K"
+        ],
+        "ORF1b": [
+          "A88V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [
+          "P10S"
+        ],
+        "S": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S2015R"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "G251V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "I739V",
+          "P765S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P314L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D614G"
+        ]
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "M657I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S194L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "Q41*"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000057": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P1263L"
+        ]
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "S425F"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "F1121L"
+        ]
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H49Y"
+        ]
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "Q57H"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000085": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000095": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000097": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000098": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A879S"
+        ]
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T265I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D936Y"
+        ]
+      }
+    },
+    "NODE_0000104": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "S2430R"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000114": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000119": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S183Y"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "L30I"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000122": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S3884L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q675R"
+        ]
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D215Y"
+        ]
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000129": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "A99V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000133": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "S24L"
+        ],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000135": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "V181I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A222V"
+        ]
+      }
+    },
+    "NODE_0000140": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000144": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000146": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000150": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000151": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000152": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000153": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000154": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T551I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "R203K",
+          "G204R"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "G50N"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000157": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000159": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000161": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000165": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000168": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000170": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000175": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000176": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000177": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R21I"
+        ]
+      }
+    },
+    "NODE_0000178": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000179": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "T2099I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [
+          "R13L"
+        ],
+        "S": [
+          "H1159Y"
+        ]
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000183": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "I300F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L5F"
+        ]
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S477N"
+        ]
+      }
+    },
+    "NODE_0000193": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "T175M"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000202": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000203": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000207": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T73I"
+        ]
+      }
+    },
+    "NODE_0000210": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "D1036E"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000215": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000220": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [
+          "L9P"
+        ],
+        "ORF1a": [
+          "G3334S"
+        ],
+        "ORF1b": [
+          "T2084I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S37P"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A656V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q779H"
+        ]
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G3278S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000232": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "D103Y"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Netherlands/Friesland_4/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A1462S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T22I"
+        ]
+      }
+    },
+    "Netherlands/Limburg_51/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P927S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G75V"
+        ]
+      }
+    },
+    "Netherlands/NA_163/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "N3725D"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T29I"
+        ]
+      }
+    },
+    "Netherlands/Utrecht_10028/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L922F"
+        ]
+      }
+    },
+    "Netherlands/Utrecht_10037/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P2394S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V367F"
+        ]
+      }
+    },
+    "Netherlands/ZuidHolland_7/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S4119L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Norway/1526/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q675H"
+        ]
+      }
+    },
+    "Norway/2856/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T614I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V642F"
+        ]
+      }
+    },
+    "Peru/01-2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "D3G"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "H604Y"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I119V"
+        ]
+      }
+    },
+    "Pingxiang/JX151/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S254F"
+        ]
+      }
+    },
+    "Portugal/PT0035/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A845S"
+        ]
+      }
+    },
+    "Portugal/PT0306/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "L108F"
+        ],
+        "ORF6": [],
+        "ORF7a": [
+          "V104F"
+        ],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A846S"
+        ]
+      }
+    },
+    "Portugal/PT0744/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "A1428V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Portugal/PT1256/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "S1089L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T20I"
+        ]
+      }
+    },
+    "Romania/ROSV_2899/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [
+          "L96F"
+        ],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D1146H"
+        ]
+      }
+    },
+    "Russia/Chechenya-83801/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P384L"
+        ]
+      }
+    },
+    "Russia/StPetersburg-RII3997/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "A381V"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D138H"
+        ]
+      }
+    },
+    "Scotland/CVR106/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L216F"
+        ]
+      }
+    },
+    "Scotland/CVR140/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "N439K"
+        ]
+      }
+    },
+    "Scotland/CVR34/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "F406L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L1063F"
+        ]
+      }
+    },
+    "Scotland/EDB086/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V90F"
+        ]
+      }
+    },
+    "Scotland/EDB1106/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L1200F"
+        ]
+      }
+    },
+    "Scotland/EDB1198/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "F1632L"
+        ],
+        "ORF1b": [
+          "L1220P"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P1162S"
+        ]
+      }
+    },
+    "Scotland/EDB1404/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "Q389H"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "T14I"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S943I"
+        ]
+      }
+    },
+    "Scotland/EDB2711/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I100T"
+        ]
+      }
+    },
+    "Scotland/EDB2724/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "R185C",
+          "S188L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "H35Y"
+        ],
+        "ORF1a": [
+          "D3511E"
+        ],
+        "ORF1b": [
+          "T132I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G181V"
+        ]
+      }
+    },
+    "Scotland/EDB5108/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "S1408L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "F1121L"
+        ]
+      }
+    },
+    "Sichuan/SC-WCH1-005/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T2755I"
+        ],
+        "ORF1b": [
+          "E2390K"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T307I"
+        ]
+      }
+    },
+    "Sichuan/SC-WCH3-254/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S202N"
+        ],
+        "ORF10": [
+          "A28V"
+        ],
+        "ORF14": [
+          "V49I"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "D173N"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S50L"
+        ]
+      }
+    },
+    "Sichuan/SC-YB-086/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "*1274Q"
+        ]
+      }
+    },
+    "Singapore/768/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T1543I",
+          "M3655V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D1118V"
+        ]
+      }
+    },
+    "Singapore/776/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "R2432K",
+          "I3052V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [
+          "S41F"
+        ],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D138H"
+        ]
+      }
+    },
+    "Spain/Madrid-H12-1804/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G3846S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G1219V"
+        ]
+      }
+    },
+    "Spain/PaisVasco201602/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S197L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "Q44*"
+        ],
+        "ORF1a": [
+          "P2870L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [
+          "G196V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q675R"
+        ]
+      }
+    },
+    "Spain/Valencia264/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P25S"
+        ]
+      }
+    },
+    "Spain/Valencia292/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S254F"
+        ]
+      }
+    },
+    "Spain/Valencia293/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "M1769I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A684V"
+        ]
+      }
+    },
+    "Sweden/20-08073/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V341I"
+        ]
+      }
+    },
+    "Sweden/20-08098/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T859I"
+        ]
+      }
+    },
+    "Sweden/20-08681/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "R848K"
+        ],
+        "ORF1b": [
+          "M2414I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D80Y"
+        ]
+      }
+    },
+    "Sweden/20-50106/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S98F"
+        ]
+      }
+    },
+    "Sweden/20-50141/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q239K"
+        ]
+      }
+    },
+    "Sweden/20-50234/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M1237I"
+        ]
+      }
+    },
+    "Switzerland/1000477102/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S939F"
+        ]
+      }
+    },
+    "Switzerland/1000482983/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L176F"
+        ]
+      }
+    },
+    "Switzerland/190019_543_A12/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T711A",
+          "D4165G"
+        ],
+        "ORF1b": [
+          "A1609S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "K1157N"
+        ]
+      }
+    },
+    "Switzerland/190026_546_F10/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "V60L"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S279F",
+          "Q998H"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Y453F"
+        ]
+      }
+    },
+    "Switzerland/200020_594_B05/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T395I"
+        ],
+        "ORF1b": [
+          "G587S"
+        ],
+        "ORF3a": [
+          "K192E"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V687I"
+        ]
+      }
+    },
+    "Switzerland/200050_611_H04/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T95I"
+        ]
+      }
+    },
+    "Switzerland/210037_640_F02/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "M1156I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A1078V"
+        ]
+      }
+    },
+    "Taiwan/CGMH-CGU-03/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T265I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T791I"
+        ]
+      }
+    },
+    "Taiwan/CGMH-CGU-12/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R765L"
+        ]
+      }
+    },
+    "Thailand/SI203285-NT/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L1375F"
+        ],
+        "ORF1b": [
+          "V2223L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A829T"
+        ]
+      }
+    },
+    "Turkey/HSGM-8990/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T1238I"
+        ]
+      }
+    },
+    "Turkey/KU-008/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [
+          "V104F"
+        ],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M900I"
+        ]
+      }
+    },
+    "USA/CA-ALSR-0515-SAN/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [
+          "M1V"
+        ],
+        "ORF14": [],
+        "ORF1a": [
+          "A541V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Y215H"
+        ]
+      }
+    },
+    "USA/CA-ALSR-1669/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A1969P"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V6F"
+        ]
+      }
+    },
+    "USA/CA-CZB-1217/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M153I"
+        ]
+      }
+    },
+    "USA/CA-CZB-1494/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P2221S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M1237T"
+        ]
+      }
+    },
+    "USA/CA-CZB0750/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P681L"
+        ]
+      }
+    },
+    "USA/CA-SR0178/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A1997V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V622F"
+        ]
+      }
+    },
+    "USA/CA-SR0461/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "D1547Y",
+          "M1647I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T859I"
+        ]
+      }
+    },
+    "USA/FL-BPHL-0155/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3585I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "K1191N"
+        ]
+      }
+    },
+    "USA/FL-BPHL-0247/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T3308I"
+        ],
+        "ORF1b": [
+          "M2322V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "F220L"
+        ]
+      }
+    },
+    "USA/FL-BPHL-0460/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "V202L"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "E1202Q"
+        ]
+      }
+    },
+    "USA/FL-BPHL-0540/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "M1352V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "G8R"
+        ],
+        "ORF9b": [],
+        "S": [
+          "D215G"
+        ]
+      }
+    },
+    "USA/FL-BPHL-0722/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "H374Y",
+          "G993S",
+          "S3884L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "A65V"
+        ],
+        "ORF9b": [],
+        "S": [
+          "S477N"
+        ]
+      }
+    },
+    "USA/FL-BPHL-0739/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "A69S"
+        ],
+        "N": [
+          "R203S"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "G50V"
+        ],
+        "ORF1a": [],
+        "ORF1b": [
+          "L314H",
+          "T1522I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R357K"
+        ]
+      }
+    },
+    "USA/IA-CDC-8200/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "A220T"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "W258L"
+        ]
+      }
+    },
+    "USA/IL-NM019/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P1162L"
+        ]
+      }
+    },
+    "USA/IN_72003/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L1203F"
+        ]
+      }
+    },
+    "USA/LA-GBCL-26684456/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G572E",
+          "A690V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V785I"
+        ]
+      }
+    },
+    "USA/MA-MGH-00203/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S2185G"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A783S"
+        ]
+      }
+    },
+    "USA/MA-MGH-00516/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A845D"
+        ]
+      }
+    },
+    "USA/MI-MDHHS-SC21120/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S13I"
+        ]
+      }
+    },
+    "USA/MN-MDH-1204/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/MN-MDH-1381/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "R209I"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "E56*"
+        ],
+        "ORF1a": [
+          "P2079L",
+          "S2926A"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L229F"
+        ]
+      }
+    },
+    "USA/MN-UW-MAYO71/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T95A"
+        ]
+      }
+    },
+    "USA/NE-875/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [
+          "R80I"
+        ],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "N856S"
+        ]
+      }
+    },
+    "USA/NY-NYUMC150/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "T366I"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S1252F"
+        ]
+      }
+    },
+    "USA/NY-NYUMC161/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H655Y"
+        ]
+      }
+    },
+    "USA/NY-NYUMC43/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P1427S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P631S"
+        ]
+      }
+    },
+    "USA/NY-NYUMC563/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "A2476S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H1101Y"
+        ]
+      }
+    },
+    "USA/NY-NYUMC657/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A27V"
+        ]
+      }
+    },
+    "USA/NY-NYUMC722/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A647S"
+        ]
+      }
+    },
+    "USA/NY-NYUMC836/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "S1893F"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "N501Y"
+        ]
+      }
+    },
+    "USA/NY-WCMP10D06P/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "E583D"
+        ]
+      }
+    },
+    "USA/NY-WCMP11F04P/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A1020S"
+        ]
+      }
+    },
+    "USA/OR-OHSU-1133/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "V3510F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [
+          "V90L",
+          "P267L"
+        ],
+        "ORF6": [],
+        "ORF7a": [
+          "V74I"
+        ],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I1172V"
+        ]
+      }
+    },
+    "USA/OR-OHSU-1157/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P1640S",
+          "N2966S",
+          "T4031I"
+        ],
+        "ORF1b": [
+          "T1637I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L5F",
+          "L8F"
+        ]
+      }
+    },
+    "USA/OR-OHSU-1169/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "A85V"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "I1115L"
+        ]
+      }
+    },
+    "USA/OR-OHSU-1323/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S2625F",
+          "P3371S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L242P",
+          "E1258D"
+        ]
+      }
+    },
+    "USA/OR-OHSU-1481/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "T2432A"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "Q18*"
+        ],
+        "ORF9b": [],
+        "S": [
+          "E96D",
+          "A243S"
+        ]
+      }
+    },
+    "USA/OR-UW-13394/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "A1369S",
+          "A2513S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "E59*"
+        ],
+        "ORF9b": [],
+        "S": [
+          "L179F"
+        ]
+      }
+    },
+    "USA/PA-MGEL89/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "A398V"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P618S"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P26S"
+        ]
+      }
+    },
+    "USA/TX-HMH016/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A1078S"
+        ]
+      }
+    },
+    "USA/TX-HMH0284/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "N144D"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A520S"
+        ]
+      }
+    },
+    "USA/TX-HMH036/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "M731I"
+        ]
+      }
+    },
+    "USA/TX-HMH0412/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "H2883Q"
+        ],
+        "ORF1b": [
+          "K1447N"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "Q677H"
+        ]
+      }
+    },
+    "USA/UT-01607/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "F190L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D253G"
+        ]
+      }
+    },
+    "USA/UT-02518/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T22N",
+          "S698L"
+        ]
+      }
+    },
+    "USA/UT-034/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A967V",
+          "S3885F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H146Y"
+        ]
+      }
+    },
+    "USA/UT-CDC-1251/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "T7I"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P1640L"
+        ],
+        "ORF1b": [
+          "A1219S",
+          "P1664S",
+          "D1956G"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "N1187Y"
+        ]
+      }
+    },
+    "USA/VA-DCLS-0441/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L1375W"
+        ],
+        "ORF1b": [],
+        "ORF3a": [
+          "A23S",
+          "V55F"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "A65S"
+        ],
+        "ORF9b": [],
+        "S": [
+          "R403K"
+        ]
+      }
+    },
+    "USA/WA-S107/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V483A"
+        ]
+      }
+    },
+    "USA/WA-S1301/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "E1311G"
+        ],
+        "ORF1b": [
+          "V1116I"
+        ],
+        "ORF3a": [
+          "W131R"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D936H"
+        ]
+      }
+    },
+    "USA/WA-S388/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "V660A",
+          "K3499R"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T323I"
+        ]
+      }
+    },
+    "USA/WA-S815/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P330S"
+        ]
+      }
+    },
+    "USA/WA-S90/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S71F"
+        ]
+      }
+    },
+    "USA/WA-UW-1919/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "T9K",
+          "G254R"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D80Y"
+        ]
+      }
+    },
+    "USA/WA-UW-2608/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "C316G"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L1141F"
+        ]
+      }
+    },
+    "USA/WA-UW117/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "C1247F"
+        ]
+      }
+    },
+    "USA/WA-UW155/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S929I"
+        ]
+      }
+    },
+    "USA/WI-GMF-00921/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3201F"
+        ],
+        "ORF1b": [
+          "E427G"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "W152L"
+        ]
+      }
+    },
+    "USA/WI-GMF-01602/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "I1159T"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/WI-GMF-M00007/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A591S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "E583D"
+        ]
+      }
+    },
+    "USA/WI-UW-20/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R214L"
+        ]
+      }
+    },
+    "USA/WI-UW-336/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "T1996M"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A1078V"
+        ]
+      }
+    },
+    "USA/WI-UW-779/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "I659F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S256L",
+          "V1176F"
+        ]
+      }
+    },
+    "USA/WI-UW-791/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "H155Y"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A2199V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "E918V"
+        ]
+      }
+    },
+    "USA/WI-UW-885/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "C433R",
+          "L590F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L552F"
+        ]
+      }
+    },
+    "USA/WY-WYPHL-00055/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [
+          "A69S"
+        ],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D574Y"
+        ]
+      }
+    },
+    "Wales/PHWC-15C462/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P251L"
+        ]
+      }
+    },
+    "Wales/PHWC-16296A/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "T135I"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "E484Q"
+        ]
+      }
+    },
+    "Wales/PHWC-24947/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S193I"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "V40F"
+        ],
+        "ORF1a": [
+          "G392D",
+          "A876T"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V615I"
+        ]
+      }
+    },
+    "Wales/PHWC-26505/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S187L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "H34Y"
+        ],
+        "ORF1a": [],
+        "ORF1b": [
+          "A440V"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T549I"
+        ]
+      }
+    },
+    "Wales/PHWC-26620/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "P207L"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A1020V"
+        ]
+      }
+    },
+    "Wales/PHWC-26BC7/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "A941V",
+          "P1325T"
+        ],
+        "ORF3a": [
+          "V13L"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T716I"
+        ]
+      }
+    },
+    "Wales/PHWC-2A61D/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G3846S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [
+          "A54S"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A522V"
+        ]
+      }
+    },
+    "Wales/PHWC-2C2DB/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "G100C"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "A892S"
+        ]
+      }
+    },
+    "Wales/PHWC-2C2EA/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "Y1734H"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "R847K"
+        ]
+      }
+    },
+    "Wales/PHWC-2EA1D/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wales/PHWC-309DF/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S186Y"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "P33T"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "F2L"
+        ]
+      }
+    },
+    "Wales/PHWC-30CD6/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T791P"
+        ]
+      }
+    },
+    "Wales/PHWC-30F64/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "V213L"
+        ]
+      }
+    },
+    "Wales/PHWC-31D78/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "D139N"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "N658Y"
+        ]
+      }
+    },
+    "Wales/PHWC-32DD1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P3371S"
+        ],
+        "ORF1b": [
+          "V1706L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "G769V"
+        ]
+      }
+    },
+    "Wales/PHWC-342FE/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "P479S"
+        ]
+      }
+    },
+    "Wales/PHWC-363AE/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/HB-WHCM-101/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A968D",
+          "S2242F"
+        ],
+        "ORF1b": [
+          "P1548L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "L54F"
+        ]
+      }
+    },
+    "Wuhan/IPBCAMS-WH-01/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "N2708S",
+          "F2908I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Xinyu/JX124/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D1084Y"
+        ]
+      }
+    },
+    "Zhejiang/CN3/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H655Y"
+        ]
+      }
+    }
+  },
+  "reference": {
+    "E": "MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV*",
+    "M": "MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPVTLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILLNVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ*",
+    "N": "MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADLDDFSKQLQQSMSSADSTQA*",
+    "ORF10": "MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT*",
+    "ORF14": "MLQSCYNFLKEQHCQKASTQKGAEAAVKPLLVPHHVVATVQEIQLQAAVGELLLLEWLAMAVMLLLLCCCLTD*",
+    "ORF1a": "MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQHLKDGTCGLVEVEKGVLPQLEQPYVFIKRSDARTAPHGHVMVELVAELEGIQYGRSGETLGVLVPHVGEIPVAYRKVLLRKNGNKGAGGHSYGADLKSFDLGDELGTDPYEDFQENWNTKHSSGVTRELMRELNGGAYTRYVDNNFCGPDGYPLECIKDLLARAGKASCTLSEQLDFIDTKRGVYCCREHEHEIAWYTERSEKSYELQTPFEIKLAKKFDTFNGECPNFVFPLNSIIKTIQPRVEKKKLDGFMGRIRSVYPVASPNECNQMCLSTLMKCDHCGETSWQTGDFVKATCEFCGTENLTKEGATTCGYLPQNAVVKIYCPACHNSEVGPEHSLAEYHNESGLKTILRKGGRTIAFGGCVFSYVGCHNKCAYWVPRASANIGCNHTGVVGEGSEGLNDNLLEILQKEKVNINIVGDFKLNEEIAIILASFSASTSAFVETVKGLDYKAFKQIVESCGNFKVTKGKAKKGAWNIGEQKSILSPLYAFASEAARVVRSIFSRTLETAQNSVRVLQKAAITILDGISQYSLRLIDAMMFTSDLATNNLVVMAYITGGVVQLTSQWLTNIFGTVYEKLKPVLDWLEEKFKEGVEFLRDGWEIVKFISTCACEIVGGQIVTCAKEIKESVQTFFKLVNKFLALCADSIIIGGAKLKALNLGETFVTHSKGLYRKCVKSREETGLLMPLKAPKEIIFLEGETLPTEVLTEEVVLKTGDLQPLEQPTSEAVEAPLVGTPVCINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGGAPTKVTFGDDTVIEVQGYKSVNITFELDERIDKVLNEKCSAYTVELGTEVNEFACVVADAVIKTLQPVSELLTPLGIDLDEWSMATYYLFDESGEFKLASHMYCSFYPPDEDEEEGDCEEEEFEPSTQYEYGTEDDYQGKPLEFGATSAALQPEEEQEEDWLDDDSQQTVGQQDGSEDNQTTTIQTIVEVQPQLEMELTPVVQTIEVNSFSGYLKLTDNVYIKNADIVEEAKKVKPTVVVNAANVYLKHGGGVAGALNKATNNAMQVESDDYIATNGPLKVGGSCVLSGHNLAKHCLHVVGPNVNKGEDIQLLKSAYENFNQHEVLLAPLLSAGIFGADPIHSLRVCVDTVRTNVYLAVFDKNLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFITESKPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLLLYIDINGNLHPDSATLVSDIDITFLKKDAPYIVGDVVQEGVLTAVVIPTKKAGGTTEMLAKALRKVPTDNYITTYPGQGLNGYTVEEAKTVLKKCKSAFYILPSIISNEKQEILGTVSWNLREMLAHAEETRKLMPVCVETKAIVSTIQRKYKGIKIQEGVVDYGARFYFYTSKTTVASLINTLNDLNETLVTMPLGYVTHGLNLEEAARYMRSLKVPATVSVSSPDAVTAYNGYLTSSSKTPEEHFIETISLAGSYKDWSYSGQSTQLGIEFLKRGDKSVYYTSNPTTFHLDGEVITFDNLKTLLSLREVRTIKVFTTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTFYVLPNDDTLRVEAFEYYHTTDPSFLGRYMSALNHTKKWKYPQVNGLTSIKWADNNCYLATALLTLQQIELKFNPPALQDAYYRARAGEAANFCALILAYCNKTVGELGDVRETMSYLFQHANLDSCKRVLNVVCKTCGQQQTTLKGVEAVMYMGTLSYEQFKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKHGTFTCASEYTGNYQCGHYKHITSKETLYCIDGALLTKSSEYKGPITDVFYKENSYTTTIKPVTYKLDGVVCTEIDPKLDNYYKKDNSYFTEQPIDLVPNQPYPNASFDNFKFVCDNIKFADDLNQLTGYKKPASRELKVTFFPDLNGDVVAIDYKHYTPSFKKGAKLLHKPIVWHVNNATNKATYKPNTWCIRCLWSTKPVETSNSFDVLKSEDAQGMDNLACEDLKPVSEEVVENPTIQKDVLECNVKTTEVVGDIILKPANNSLKITEEVGHTDLMAAYVDNSSLTIKKPNELSRVLGLKTLATHGLAAVNSVPWDTIANYAKPFLNKVVSTTTNIVTRCLNRVCTNYMPYFFTLLLQLCTFTRSTNSRIKASMPTTIAKNTVKSVGKFCLEASFNYLKSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLGMPSYCTGYREGYLNSTNVTIATYCTGSIPCSVCLSGLDSLDTYPSLETIQITISSFKWDLTAFGLVAEWFLAYILFTRFFYVLGLAAIMQLFFSYFAVHFISNSWLMWLIINLVQMAPISAMVRMYIFFASFYYVWKSYVHVVDGCNSSTCMMCYKRNRATRVECTTIVNGVRRSFYVYANGGKGFCKLHNWNCVNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKNGSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCEESSAKSASVYYSQLMCQPILLLDQALVSDVGDSAEVAVKMFDAYVNTFSSTFNVPMEKLKTLVATAEAELAKNVSLDNVLSTFISAARQGFVDSDVETKDVVECLKLSHQSDIEVTGDSCNNYMLTYNKVENMTPRDLGACIDCSARHINAQVAKSHNIALIWNVKDFMSLSEQLRKQIRSAAKKNNLPFKLTCATTRQVVNVVTTKIALKGGKIVNNWLKQLIKVTLVFLFVAAIFYLITPVHVMSKHTDFSSEIIGYKAIDGGVTRDIASTDTCFANKHADFDTWFSQRGGSYTNDKACPLIAAVITREVGFVVPGLPGTILRTTNGDFLHFLPRVFSAVGNICYTPSKLIEYTDFATSACVLAAECTIFKDASGKPVPYCYDTNVLEGSVAYESLRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDSEYCRHGTCERSEAGVCVSTSGRWVLNNDYYRSLPGVFCGVDAVNLLTNMFTPLIQPIGALDISASIVAGGIVAIVVTCLAYYFMRFRRAFGEYSHVVAFNTLLFLMSFTVLCLTPVYSFLPGVYSVIYLYLTFYLTNDVSFLAHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNYLKRRVVFNGVSFSTFEEAALCTFLLNKEMYLKLRSDVLLPLTQYNRYLALYNKYKYFSGAMDTTSYREAACCHLAKALNDFSNSGSDVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQSAVKRTIKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYENAFLPFAMGIIAMSAFAMMFVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLDMVDTSLSGFKLKDCVMYASAVVLLILMTARTVYDDGARRVWTLMNVLTLVYKVYYGNALDQAISMWALIISVTSNYSGVVTTVMFLARGIVFMCVEYCPIFFITGNTLQCIMLVYCFLGYFCTCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNIKLLGVGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATLQAIASEFSSLPSYAAFATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVVDADSKIVQLSEISMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKGGRFVLALLSDLQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDAAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVCGMWKGYGCSCDQLREPMLQSADAQSFLN",
+    "ORF1b": "RVCGVSAARLTPCGTGTSTDVVYRAFDIYNDKVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFRIDGDMVPHISRQRLTKYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQALLKTVQFCDAMRNAGIVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPVVDSYYSLLMPILTLTRALTAESHVDTDLTKPYIKWDLLKYDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAVVCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSLEIPRRNVATLQAENVTGLFKDCSKVITGLHPTQAPTHLSVDTKFKTEGLCVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCHATREAVGTNLPLQLGFSTGVNLVAVPTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPLMYKGLPWNVVRIKIVQMLSDTLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLCDRRATCFSTASDTYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYCQVHGNAHVASCDAIMTRCLAVHECFVKRVDWTIEYPIIGDELKINAACRKVQHMVVKAALLADKFPVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKAYKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPANSIVCRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFVNLKQLPFFYYSDSPCESHGKQVVSDIDYVPLKSATCITRCNLGGAVCRHHANEYRLYLDAYNMMISAGFSLWVYKQFDTYNLWNTFTRLQSLENVAFNVVNKGHFDGQQGEVPVSIINNTVYTKVDGVDVELFENKTTLPVNVAFELWAKRNIKPVPEVKILNNLGVDIAANTVIWDYKRDAPAHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVDLFRNARNGVLITEGSVKGLQPSVGPKQASLNGVTLIGEAVKTQFNYYKKVDGVVQQLPETYFTQSRNLQEFKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKESPFELEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFVEIIKSQDLSVVSKVVKVTIDYTEISFMLWCKDGHVETFYPKLQSSQAWQPGVAMPNLYKMQRMLLEKCDLQNYGDSATLPKGIMMNVAKYTQLCQYLNTLTLAVPYNMRVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKWDLIISDMYDPKTKNVTKENDSKEGFFTYICGFIQQKLALGGSVAIKITEHSWNADLYKLMGHFAWWTAFVTNVNASSSEAFLIGCNYLGKPREQIDGYVMHANYIFWRNTNPIQLSSYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLSKGRLIIRENNRVVISSDVLVNN*",
+    "ORF3a": "MDLFMRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQASLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEPEEHVQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL*",
+    "ORF6": "MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEID*",
+    "ORF7a": "MKIILFLALITLATCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSVSPKLFIRQEEVQELYSPIFLIVAAIVFITLCFTLKRKTE*",
+    "ORF7b": "MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNETCHA*",
+    "ORF8": "MKFLVFLGIITTVAAFHQECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI*",
+    "ORF9b": "MDPKISEMHPALRLVDPQIQLAVTRMENAVGRDQNNVGPKVYPIILRLGSPLSLNMARKTLNSLEDKAFQLTPIAVQMTKLATTEELPDEFVVVTVK*",
+    "S": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT*"
+  }
+}
